@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node servdr.js"
   },
   "repository": {
     "type": "git",
@@ -16,4 +17,9 @@
     "url": "https://github.com/sls2u/friendfinder/issues"
   },
   "homepage": "https://github.com/sls2u/friendfinder#readme"
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
 }
