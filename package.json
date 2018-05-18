@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node server.js"
   },
   "repository": {
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/sls2u/friendfinder/issues"
   },
-  "homepage": "https://github.com/sls2u/friendfinder#readme"
+  "homepage": "https://github.com/sls2u/friendfinder#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
